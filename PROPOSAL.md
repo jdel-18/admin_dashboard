@@ -1,10 +1,10 @@
-# Project Name
+# Admin Dashboard
 
-Chat Box
+Admin Dashboard App
 
 ## Project Summary
 
-This project is a full stack web app that allows a user to login to a chat app and send messages to other users. 
+As a group effort we worked together as a team to create an Admin dashboard app that allows for the user to view their ecommerce information, has three pages consisting of orders, employees and customer. Along with those features it also has four apps, a calendar, kanban board, text editor and color picker app. To complete the list of organizational tools the app also include seven different types of charts for the users to quickly derive information from. The app is mobile friendly as well.
 
 ## Developers
 
@@ -18,7 +18,7 @@ This project is a full stack web app that allows a user to login to a chat app a
 
 - Clone our repo to your computer
 
-- To install dependencies, run `npm install` in the root directory then type `npm run dev` to start the server. 
+- To install dependencies, run `npm i --legacy-peer-deps` in the root directory then type `npm start` to start the server. 
 
 - Or here is the link to our deployed heroku app: {LINK HERE}
 
@@ -31,14 +31,14 @@ This project is a full stack web app that allows a user to login to a chat app a
 
 - What languages is it written with: Javascript
 
-- What libraries are used: MongoDB, Express, Node.js, React.js, TailwindCSS, Vite.js,
+- What libraries are used: React.js, MongoDB, Express, Node.js, React.js, TailwindCSS, Vite.js,
 
-- Other: 
+- Other: Syncfusion
 
 
 ## APIs
 
--
+- React Context API
 
 ## MVP (Minimum Viable Product)
 
@@ -47,5 +47,6 @@ This project is a full stack web app that allows a user to login to a chat app a
 
 ## Stretch Goals
 
--Adding a calling feature with a single or multiple users
+- Adding more programming related features
+- More API for further customization
 
